@@ -1,0 +1,49 @@
+@import 'reset';
+@import 'font';
+@import 'colors';
+
+
+body::before {
+    content: "";
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 0.5;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    z-index: -1;
+  }
+body{
+    background-color: map-get($colors, background);
+    position: relative;
+}
+body::before {
+    content: "";
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-image: url('/img/hogwarts-bg.png');
+    background-repeat: repeat;
+    background-size: cover;
+    opacity: 0.2;
+    z-index: -1;
+  }
+  .hog_main{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+  }
+  .title_main{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    color: map-get($colors, text-w);
+    font-family: 'Playfair Display', serif;
+    font-size: 400%;
+    font-weight: 600;
+  }
