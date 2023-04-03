@@ -21,3 +21,7 @@
 
 ## Begin met coderen (Faiss):
 ![image](https://user-images.githubusercontent.com/90894837/229545734-01a2f568-31ab-4c7e-9846-cdc071cc7ebd.png)
+
+### Styling gedaan (Faiss) 3-4-2023
+![image](https://user-images.githubusercontent.com/90894837/229563112-80628be5-fb6f-4780-ba44-40861846b761.png)
+
