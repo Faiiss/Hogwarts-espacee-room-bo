@@ -25,3 +25,6 @@
 ### Styling gedaan (Faiss) 3-4-2023
 ![image](https://user-images.githubusercontent.com/90894837/229563112-80628be5-fb6f-4780-ba44-40861846b761.png)
 
+### Styling added avatar/items 15-4-2023
+![image](https://user-images.githubusercontent.com/90894837/232245637-c51160ef-756d-4ff4-9120-21d7f0ab00b1.png)
+
