@@ -99,3 +99,60 @@ body::before {
     max-width: 145vh;
     z-index: -1;
   }
+//Avatar Start
+.avatar-title {
+  position: absolute;
+  color: map-get($colors, text-w);
+  z-index: 2000;
+  font-size: 3rem;
+  top: -365px;
+  left: 806px;
+}
+.avatar-box{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: absolute;
+  width: 100%;
+}
+.avatar {
+  position: absolute;
+  top: -174px;
+  left: 800px;
+}
+.avatar img{
+  width: 20rem;
+}
+.avatar-items{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: absolute;
+  width: 100%;
+}
+.avatar__list {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  list-style: none;
+  gap: 4rem;
+  flex-direction: column;
+  position: absolute;
+  left: 1200px;
+}
+.avatar__list-item{
+ cursor: pointer;
+}
+.active {
+  cursor: auto;
+  position: absolute;
+  top: 95px;
+  left: -338px;
+}
+ .active img{
+  width: 12rem!important;
+ }
+.avatar__list-item img{
+ width: 10rem;
+}
+//Avatar End
