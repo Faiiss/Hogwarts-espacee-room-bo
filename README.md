@@ -38,7 +38,10 @@ Inhoudsopgave
 
 ## Screenshots📸
 
-![Screenshot deze is leeg](/screenshots/1.png "Homepagina")
+![Hufflepuff Sorting Hat](./screenshots/Sorting%20Hat%20Hufflepuff.png "Hufflepuff")
+![Gryffindor Sorting Hat](./screenshots/Sorting%20Hat%20Gryffindor.png "Gryffindor")
+![Slytherin Sorting Hat](./screenshots/Sorting%20Hat%20Slytherin.png "Slytherin")
+![Ravenclaw Sorting Hat](./screenshots/Sorting%20Hat%20Ravenclaw.png "Ravenclaw")
 
 ## Gebouwd met:
 
