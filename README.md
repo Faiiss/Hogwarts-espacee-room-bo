@@ -7,27 +7,44 @@ Inhoudsopgave
 ## [Website🌐 deze is leeg](<Homepage url> "Live View")
 
 ## Screenshots📸
-### WireFrame en art (Faiss):
-![Hufflepuff Sorting Hat](./screenshots/Sorting%20Hat%20Hufflepuff.png "Hufflepuff")
-![Gryffindor Sorting Hat](./screenshots/Sorting%20Hat%20Gryffindor.png "Gryffindor")
-![Slytherin Sorting Hat](./screenshots/Sorting%20Hat%20Slytherin.png "Slytherin")
-![Ravenclaw Sorting Hat](./screenshots/Sorting%20Hat%20Ravenclaw.png "Ravenclaw")
+<details>
+  <summary>WireFrame en art (Faiss):</summary>
 
-### Avatar Customizer (Faiss):
-![Styling avatar/items](./screenshots/Avatar%20customizer%201.png "Styling avatar/items")
-![Styling avatar/items](./screenshots/Avatar%20customizer%202.png "Styling avatar/items")
+  ![Hufflepuff Sorting Hat](./screenshots/Sorting%20Hat%20Hufflepuff.png "Hufflepuff")
+  ![Gryffindor Sorting Hat](./screenshots/Sorting%20Hat%20Gryffindor.png "Gryffindor")
+  ![Slytherin Sorting Hat](./screenshots/Sorting%20Hat%20Slytherin.png "Slytherin")
+  ![Ravenclaw Sorting Hat](./screenshots/Sorting%20Hat%20Ravenclaw.png "Ravenclaw")
 
-### Begin met coderen (Faiss):
-![Begin coderen](./screenshots/Begin%20coderen.png "Begin coderen")
+</details>
 
-### Styling gedaan (Faiss) 3-4-2023
-![Styling gedaan](./screenshots/Styling%20gedaan.png "Styling gedaan")
+<details>
+  <summary>Avatar Customizer (Faiss):</summary>
 
-### Styling added avatar/items 15-4-2023
-![Styling toegevoegd avatar/items](./screenshots/Styling%20toegevoegd%2C%20avatar%2Citems.png "Styling toegevoegd avatar/items")
+  ![Styling avatar/items](./screenshots/Avatar%20customizer%201.png "Styling avatar/items")
+  ![Styling avatar/items](./screenshots/Avatar%20customizer%202.png "Styling avatar/items")
 
+</details>
 
+<details>
+  <summary>Begin met coderen (Faiss):</summary>
 
+  ![Begin coderen](./screenshots/Begin%20coderen.png "Begin coderen")
+
+</details>
+
+<details>
+  <summary>Styling gedaan (Faiss):</summary>
+
+  ![Styling gedaan](./screenshots/Styling%20gedaan.png "Styling gedaan")
+
+</details>
+
+<details>
+  <summary>Styling added avatar/items:</summary>
+
+  ![Styling toegevoegd avatar/items](./screenshots/Styling%20toegevoegd%2C%20avatar%2Citems.png "Styling toegevoegd avatar/items")
+
+</details>
 
 ## Gebouwd met:
 
