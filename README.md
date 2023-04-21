@@ -1,12 +1,11 @@
 <h1 align="center">De Hogwarts Escape 2.0🧙</h1>
 
-# Projectbeschrijving📝
-
-Inhoudsopgave
+<p align="justify">Welkom bij "The Hogwarts Escape 2.0", ons project waarbij we de website van deze online escape room willen vernieuwen en verbeteren! Ons doel is om de website interactiever te maken en meer functionaliteiten toe te voegen, zoals een karakter customization en leukere interactie met vragen en puzzels. Wij zijn Calvin, Faissal en Vini en we kijken er naar uit om onze ideeën tot leven te brengen. </p>
 
 ## [Website🌐 deze is leeg](<Homepage url> "Live View")
 
 ## Screenshots📸
+
 <details>
   <summary>WireFrame en art (Faiss):</summary>
 
