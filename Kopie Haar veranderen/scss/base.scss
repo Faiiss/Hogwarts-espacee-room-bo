@@ -1,0 +1,99 @@
+@import "colors";
+@import "font";
+
+body::before {
+    content: "";
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 0.5;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    z-index: -1;
+}
+body {
+    background-color: map-get($colors, background);
+    position: relative;
+    font-weight: 600;
+    font-family: "Playfair Display", serif;
+}
+body::before {
+    content: "";
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-image: url("/img/hogwarts-bg.png");
+    background-repeat: repeat;
+    background-size: cover;
+    opacity: 0.04;
+    z-index: -1;
+}
+.hog_main {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+.title_main {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    color: map-get($colors, text-w);
+    font-size: 400%;
+}
+
+.hog_header {
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.hog_header_img {
+    width: 8rem;
+    position: fixed;
+    top: 14px;
+    left: 42px;
+    height: auto;
+    max-width: 100vw;
+}
+.hog__list {
+    display: flex;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.hog__item {
+    margin-right: 20px;
+}
+
+.hog__link {
+    font-weight: 400;
+    color: map-get($colors, text-w);
+    font-size: 1rem;
+    text-decoration: none;
+    transition: 0.5s;
+}
+
+.hog__link:hover {
+    font-size: 1.1rem;
+}
+
+.hog_app {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    margin-top: 2rem;
+}
+
+.hog_app_bg {
+    width: 100%;
+    height: auto;
+    max-width: 145vh;
+    z-index: -1;
+}
