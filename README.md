@@ -20,22 +20,22 @@ Inhoudsopgave
 <details>
   <summary>Avatar Customizer (Faiss):</summary>
 
-  ![Styling avatar/items](./screenshots/Avatar%20customizer%201.png "Styling avatar/items")
-  ![Styling avatar/items](./screenshots/Avatar%20customizer%202.png "Styling avatar/items")
+  ![Avatar/items styiling jongen](./screenshots/Avatar%20customizer%201.png "Avatar/items styiling jongen")
+  ![Avatar/items styiling meisje](./screenshots/Avatar%20customizer%202.png "Avatar/items styiling meisje")
 
 </details>
 
 <details>
   <summary>Begin met coderen (Faiss):</summary>
 
-  ![Begin coderen](./screenshots/Begin%20coderen.png "Begin coderen")
+  ![Website background](./screenshots/Begin%20coderen.png "Website background")
 
 </details>
 
 <details>
   <summary>Styling gedaan (Faiss):</summary>
 
-  ![Styling gedaan](./screenshots/Styling%20gedaan.png "Styling gedaan")
+  ![Website styling](./screenshots/Styling%20gedaan.png "Website styling")
 
 </details>
 
@@ -49,13 +49,15 @@ Inhoudsopgave
 ## Gebouwd met:
 
 <p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/sass/sass-original.svg" alt="css3" width="40" height="40"/> </a>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" title="HTML5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" title="CSS3" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/sass/sass-original.svg" alt="Sass" title="Sass" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="40" height="40"/>
+</p>
+ 
 
 ## Auteurs✍️
 
-[**Faissal Abattouy**](https://github.com/Faiiss)  
-[**Calvin Heeres**](https://github.com/calvin-heeres)  
-[**Vinicius Vieira De Sousa**](https://github.com/viniciuseduardosousa)
+[**Faissal Abattouy**](https://github.com/Faiiss "GitHub: Faiiss")  
+[**Calvin Heeres**](https://github.com/calvin-heeres "GitHub: calvin-heeres")  
+[**Vinicius Vieira De Sousa**](https://github.com/viniciuseduardosousa "GitHub: viniciuseduardosousa")
